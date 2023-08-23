@@ -1,6 +1,6 @@
 # AdminPro - Backend
 
-Si los modules se pierden, ejecutar
+Ejecutar para instalar los modules
 
 ```
 npm install
